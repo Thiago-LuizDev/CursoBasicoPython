@@ -1,2 +1,2 @@
 # CursoBasicoPython
-#Análise de Dados
+Curso Básico em Python de análise de dados
